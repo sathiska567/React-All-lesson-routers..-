@@ -1,0 +1,7 @@
+.paraDiv{
+    background-color: rgb(135, 135, 255);
+    width: 80%;
+    height: 100px;
+    border-radius: 10px;
+    padding: 10px;
+}
